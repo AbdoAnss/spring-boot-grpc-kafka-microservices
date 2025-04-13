@@ -1,0 +1,18 @@
+syntax = "proto3";
+option java_multiple_files = true;
+package com.example.grpc;
+
+message ProductRequest {
+  int64 product_id = 1;
+}
+
+message ProductResponse {
+  int64 id = 1;
+  string name = 2;
+  double price = 3;
+  int32 quantity = 4;
+}
+
+service ProductService {
+  rpc getProductById(ProductRequest) returns (ProductResponse);
+}

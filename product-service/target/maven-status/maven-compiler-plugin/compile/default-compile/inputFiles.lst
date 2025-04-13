@@ -1,0 +1,14 @@
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\entity\Product.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\model\OrderEvent.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\service\ProductService.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\config\KafkaConfig.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\repository\ProductRepository.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\service\GrpcProductService.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\model\ProductEvent.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\java\com\example\grpc\ProductResponseOrBuilder.java
+C:\Users\Test\code\grpc-project\product-service\src\main\java\com\example\productservice\ProductServiceApplication.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\java\com\example\grpc\ProductRequest.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\java\com\example\grpc\ProductRequestOrBuilder.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\grpc-java\com\example\grpc\ProductServiceGrpc.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\java\com\example\grpc\Product.java
+C:\Users\Test\code\grpc-project\product-service\target\generated-sources\protobuf\java\com\example\grpc\ProductResponse.java
