@@ -86,8 +86,8 @@ This project demonstrates a microservices architecture featuring an **Order Serv
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <your-repository-directory>
+    git clone https://github.com/AbdoAnss/spring-boot-grpc-kafka-microservices.git
+    cd spring-boot-grpc-kafka-microservices
     ```
 
 2.  **Start Kafka:**
